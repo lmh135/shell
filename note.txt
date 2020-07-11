@@ -1,0 +1,13 @@
+shell脚本就是把一系列命令直接依次执行
+如打开终端输入：ls
+可以新建个脚本叫shellText或shellText.sh
+输入 
+cd..
+ls -l
+
+输入chmod 777 shellText.sh
+./shellText.sh
+或者 sh shellText.sh
+即可运行
+
+
